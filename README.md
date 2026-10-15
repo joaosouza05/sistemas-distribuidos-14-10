@@ -34,3 +34,19 @@ Saldo obtido: 950
 PS C:\Users\aluno\Desktop\atividade pratica> 
 
 mudou o valor após colocar python corrida.py 3 vezes.
+
+passo 3- protegido com chave 
+
+PS C:\Users\aluno\Desktop\atividade pratica> python corrida.py
+
+Saldo esperado: 500
+
+Saldo obtido: 1000
+
+PS C:\Users\aluno\Desktop\atividade pratica> python corrida.py
+
+Saldo esperado: 500
+
+Saldo obtido: 1000
+
+PS C:\Users\aluno\Desktop\atividade pratica> 
